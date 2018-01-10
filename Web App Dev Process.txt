@@ -1,0 +1,68 @@
+Web Application Development Process
+
+Phase 1. Roadmap Document: Defining Web Application, Purpose, Goals and Direction
+(Performed by client / project owner) 
+
+Phase 2. Researching and Defining Audience Scope and Security Documents
+(Performed by client / project owner, or by Comentum, as a fee service) 
+This task requires researching the audience/users, and prospective clients (if any), and creating an Analytic Report which includes the following approximate assessments:
+
+- Type of audience for usability purposes: 
+Creating Statistic Reports on the percentage of users: elementary, average, advanced, the audience ages, and gender
+
+- Type and level of access: 
+Creating an Access Report, specifying users' access of Intranet, Internet, Extranet - single-level, multi-level
+
+- Type of audience for planning the security level: 
+Creating a Risk Statistical Document based on users' characteristics, zone's fraud level, application's industry security breaches, and history of the audience's security breaches
+
+- Quantitative statistics on audience: 
+Creating a Potential Visitors Report, broken down by reasonable periodic time frames
+
+Phase 3. Creating Functional Specifications or Feature Summary Document
+(Performed by client / project owner) 
+A Web Application Functionality Specifications Document is the key document in any Web Application project. This document will list all of the functionalities and technical specifications that a web application will require to accomplish. Technically, this document can become overwhelming if one has to follow the Functional Specifications rule and detail out each type of user's behavior on a very large project. However, it is worth putting forth the effort to create this document which will help prevent any future confusion or misunderstanding of the project features and functionalities, by both the project owner and developer. A typical functional specification will list every user's behavior, for example:
+
+When a visitor clicks on the "Add to Cart" button from the Product Showcase page, the item is added to the visitor's shopping cart, the Product Showcase page closes and the user is taken to the Shopping Cart page which shows the new item in the cart.
+
+If creating a functional specification document is overwhelming to you, I recommend starting out by creating a Specification Document or Feature Summary Document by either creating the sample screen shots of the web application screens or creating a document that includes a summary list of the application's features, for example:
+
+Product / Inventory Summary Showcase: displays a summary of items for sale, stock number, item name, short description, one photo, price, and Add to Cart button.
+Product / Inventory One Item Showcase: displays the detail of one inventory item: stock number, item name, long description, multiple photos (up to 10 photos), price, and Add to Cart button.
+Phase 4. Third Party Vendors Identification, Analysis and Selection
+(Performed by client / project owner) 
+This task requires researching, identifying and selection of third party vendors, products and services such as:
+
+Web Application Development Company - for detail information: How to Hire a Good Web Application Development Company
+Merchant	Account	and	Payment	Gateway - for detail information: Guide to Merchant Accounts and Payment Gateways
+SSL Certificate (example providers: Verisign, GeoTrust)
+Managed Server / Colocation Server Provider - for detail information: Managed Hosting Comparison
+Server, Network, Firewall, Load Balancer Equipment (may not needed if using a managed server - example: DELL, Cisco 5520 Load Balancer)
+Fulfillment Centers (example: Shipwire)
+
+Phase 5. Technology Selection, Technical Specifications, Web Application Structure and Timelines
+(Performed by Comentum) 
+This document is the blueprint of the technology and platform selection, development environment, web application development structure and framework.
+
+The Technical Specifications Document will detail out the technology used, licenses, versions and forecasts.
+
+The Timeline Document will identify the completion dates for the Web Application's features or modules.
+
+Phase 6. Application Visual Guide, Design Layout, Interface Design, Wire framing
+(Created by the collaboration of the project owner and Comentum) 
+One of the main ingredients to a successful project is to put together a web application that utilizes a user's interactions, interface and elements that have a proven record for ease of use, and provide the best user experience.
+
+This process starts out by creating the visual guide, wire framing or simply sketching out the user interface and interactions of the web applications by Comentum's Creative and Usability teams of experts.
+
+Once the Application Interface and Interaction Models are approved, Comentum's creative team design the interface for the web application.
+
+Phase 7. Web Application Development
+(Executed by Comentum's Development Team) 
+The application's Design Interface is turned over to Comentum's Development Team who take the following steps to develop the project:
+
+Create the Web Application Architecture and Framework
+Design the Database Structure
+Develop / Customize the Web Application Module, Libraries and Classes
+Complete the Development and Implement all Functionalities - Version 1.0
+
+Phase 8. Testing and Bug Fixing
